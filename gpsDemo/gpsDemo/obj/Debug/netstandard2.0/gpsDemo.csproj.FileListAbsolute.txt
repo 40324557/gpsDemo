@@ -1,0 +1,12 @@
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\bin\Debug\netstandard2.0\gpsDemo.deps.json
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\bin\Debug\netstandard2.0\gpsDemo.dll
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\gpsDemo.csprojAssemblyReference.cache
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\gpsDemo.csproj.CoreCompileInputs.cache
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\gpsDemo.AssemblyInfoInputs.cache
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\gpsDemo.AssemblyInfo.cs
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\gpsDemo.dll
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\gpsDemo.pdb
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\bin\Debug\netstandard2.0\gpsDemo.pdb
+Z:\Users\James\source\repos\gpsDemo\gpsDemo\gpsDemo\obj\Debug\netstandard2.0\XamlC.stamp
